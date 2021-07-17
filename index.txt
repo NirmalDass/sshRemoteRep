@@ -6,4 +6,8 @@ style tag is denoted for css
 this was edited in vi
 =======
 <gitjub line added>
+<<<<<<< HEAD
 >>>>>>> 32cbdb65cb043ba42e0435b4abfeee7a302fa529
+=======
+added another line
+>>>>>>> 16188448fcb190b0fc27d5ae5918d4098ec1fcc0

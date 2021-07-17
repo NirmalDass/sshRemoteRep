@@ -2,3 +2,4 @@ hi frnds tday we are going to study about html tags
 this is the added line for pulling commit
 another line added for git pull and push collabration
 style tag is denoted for css
+this was edited in vi

@@ -1,1 +1,2 @@
 hi frnds tday we are going to study about html tags
+this is the added line for pulling commit

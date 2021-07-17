@@ -11,3 +11,4 @@ this was edited in vi
 =======
 added another line
 >>>>>>> 16188448fcb190b0fc27d5ae5918d4098ec1fcc0
+H3{color:yellow;} <!-- h3 added in local -->

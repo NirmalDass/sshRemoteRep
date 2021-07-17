@@ -2,4 +2,8 @@ hi frnds tday we are going to study about html tags
 this is the added line for pulling commit
 another line added for git pull and push collabration
 style tag is denoted for css
+<<<<<<< HEAD
 this was edited in vi
+=======
+<gitjub line added>
+>>>>>>> 32cbdb65cb043ba42e0435b4abfeee7a302fa529
